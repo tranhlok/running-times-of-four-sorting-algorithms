@@ -1,5 +1,4 @@
-/* Name: Tran Anh Loc (Lucas) & Runqi Liu
-Program: Homework 6 - Sorting
+/* Name: Tran Anh Loc
 Date: Friday, April 5, 2019
 */
 #include <iostream>
